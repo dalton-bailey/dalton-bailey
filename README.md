@@ -1,6 +1,9 @@
 ### Hi, I'm Bailey Dalton
 
-![name](/flowers.jpg)
+![name](flowers.jpg)
+
+![Alt Text](flowers.jpg)
+
 <!--
 **dalton-bailey/dalton-bailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
